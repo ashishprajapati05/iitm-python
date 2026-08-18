@@ -30,3 +30,7 @@ rounded_discounted_price = round (discounted_price) # int
 # input variables : total_mins
 hrs = total_mins // 60  # int: hint: think about floor division operator
 mins = total_mins % 60 # int
+
+
+# best of luck for your grpa
+
